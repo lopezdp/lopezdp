@@ -19,8 +19,8 @@ My name is David P. Lopez and I'm a fullstack software engineer with experience 
 
 -   💬 Ask me about [Sponsoring My Work](https://github.com/sponsors/lopezdp)
 -   📫 How to reach me: [Contact Me Now!](https://davidplopez.com/contact-me)
--   😄 Pronouns: **Biology 101 - Stop the madness**
--   ⚡ Fun fact: **I am Cuban.**
+-   😄 Pronouns: **Biology 101 (Usually taken during your Freshman year)**
+-   ⚡ Fun fact: **I am Cuban. I started life pouring concrete and fabricating steel and I taught myself how to program while building the Miami Skyline. I made the transition to the digital age, and you too can #LearnToCode.**
 
 ## &#x270d; Blog & Writing
 
@@ -50,6 +50,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <a href="https://github.com/lopezdp/lopezdp">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lopezdp&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Lopez's GitHub Stats" />
 </a>
+
 <a href="https://github.com/lopezdp/SunbizVerify">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lopezdp&repo=SunbizVerify&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
