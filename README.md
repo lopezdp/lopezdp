@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Lopez's github stats](https://github-readme-stats.vercel.app/api?username=lopezdp&count_private=true&show_icons=true&theme=prussian)](https://davidplopez.com)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lopezdp)](https://davidplopez.com)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lopezdp&hide=html,tex,css)](https://davidplopez.com)
