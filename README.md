@@ -61,7 +61,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <!-- icons without padding -->
 
 [1.2]: https://github.com/lopezdp/lopezdp/blob/master/img/StackOverflow.png "StackOverflow"
-[2.2]: https://github.com/lopezdp/lopezdp/blob/master/img/CoderRank.png"CodersRank"
+[2.2]: https://github.com/lopezdp/lopezdp/blob/master/img/CoderRank.png "CodersRank"
 [3.2]: https://github.com/lopezdp/lopezdp/blob/master/img/Spoon.png "Spooncast"
 [4.2]: https://github.com/lopezdp/lopezdp/blob/master/img/Twitch.png "Twitch"
 [5.2]: https://github.com/lopezdp/lopezdp/blob/master/img/Behance.png "Behance"
