@@ -19,21 +19,20 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-SublimeText3-informational?style=flat&logo=sublime-text&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/PackageManager-NPM-informational?style=flat&logo=npm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/UX/UI-React.js-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Backend-Serverless-informational?style=flat&logo=serverless&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/lopezdp/lopezdp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopezdp&hide=tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopezdp&hide=tex,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/lopezdp/lopezdp">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lopezdp&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Lopez's GitHub Stats" />
