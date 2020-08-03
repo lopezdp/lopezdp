@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is David P. Lopez and I'm a fullstack software engineer with experience building machine learning applications to reduce payments fraud. I'm from the USA, and I live in Latin America while working for NativeStack, Inc. You can find me on [![StackOverflow][1.2]][1], and you can view a third party assessment of the work I have committed my repositories on [![Coder's Rank][2.2]][2].
+My name is David P. Lopez and I'm a fullstack software engineer with experience building machine learning applications to reduce payments fraud. I'm from the USA, and I live in Latin America while working for NativeStack, Inc. You can find me on [![StackOverflow][1.2 | width=100px]][1], and you can view a third party assessment of the work I have committed my repositories on [![Coder's Rank][2.2 | width=100px]][2].
 
 ## &#x270d; Blog & Writing
 
@@ -60,11 +60,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <!-- icons without padding -->
 
-[1.2]: https://davidplopez.com/img/SocialMediaIcons/StackOverflow.png "StackOverflow" | width=100px
-[2.2]: https://davidplopez.com/img/SocialMediaIcons/CoderRank.png "CodersRank" | width=100px
-[3.2]: https://davidplopez.com/img/SocialMediaIcons/Spoon.png "Spooncast" | width=100px
-[4.2]: https://davidplopez.com/img/SocialMediaIcons/Twitch.png "Twitch" | width=100px
-[5.2]: https://davidplopez.com/img/SocialMediaIcons/Behance.png "Behance" | width=100px
+[1.2]: https://davidplopez.com/img/SocialMediaIcons/StackOverflow.png
+[2.2]: https://davidplopez.com/img/SocialMediaIcons/CoderRank.png
+[3.2]: https://davidplopez.com/img/SocialMediaIcons/Spoon.png "Spooncast"
+[4.2]: https://davidplopez.com/img/SocialMediaIcons/Twitch.png "Twitch"
+[5.2]: https://davidplopez.com/img/SocialMediaIcons/Behance.png "Behance"
 
 <!-- links to your social media accounts -->
 
