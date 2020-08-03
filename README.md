@@ -60,11 +60,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <!-- icons without padding -->
 
-[1.2]: https://github.com/lopezdp/lopezdp/blob/master/img/StackOverflow.png?s=100 "StackOverflow"
-[2.2]: https://github.com/lopezdp/lopezdp/blob/master/img/CoderRank.png?s=100 "CodersRank"
-[3.2]: https://github.com/lopezdp/lopezdp/blob/master/img/Spoon.png?s=100 "Spooncast"
-[4.2]: https://github.com/lopezdp/lopezdp/blob/master/img/Twitch.png?s=100 "Twitch"
-[5.2]: https://github.com/lopezdp/lopezdp/blob/master/img/Behance.png?s=100 "Behance"
+[1.2]: https://github.com/lopezdp/lopezdp/blob/master/img/StackOverflow.png?s=4 "StackOverflow"
+[2.2]: https://github.com/lopezdp/lopezdp/blob/master/img/CoderRank.png?s=4 "CodersRank"
+[3.2]: https://github.com/lopezdp/lopezdp/blob/master/img/Spoon.png?s=4 "Spooncast"
+[4.2]: https://github.com/lopezdp/lopezdp/blob/master/img/Twitch.png?s=4 "Twitch"
+[5.2]: https://github.com/lopezdp/lopezdp/blob/master/img/Behance.png?s=4 "Behance"
 
 <!-- links to your social media accounts -->
 
