@@ -60,11 +60,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <!-- icons without padding -->
 
-[1.2]: https://davidplopez.com/img/SocialMediaIcons/StackOverflow.png|width=50px "StackOverflow"
-[2.2]: https://davidplopez.com/img/SocialMediaIcons/CoderRank.png|width=50px "CodersRank"
-[3.2]: https://davidplopez.com/img/SocialMediaIcons/Spoon.png|width=50px "Spooncast"
-[4.2]: https://davidplopez.com/img/SocialMediaIcons/Twitch.png|width=50px "Twitch"
-[5.2]: https://davidplopez.com/img/SocialMediaIcons/Behance.png|width=50px "Behance"
+[1.2]: https://davidplopez.com/img/SocialMediaIcons/StackOverflow.png "StackOverflow" | width=100px
+[2.2]: https://davidplopez.com/img/SocialMediaIcons/CoderRank.png "CodersRank" | width=100px
+[3.2]: https://davidplopez.com/img/SocialMediaIcons/Spoon.png "Spooncast" | width=100px
+[4.2]: https://davidplopez.com/img/SocialMediaIcons/Twitch.png "Twitch" | width=100px
+[5.2]: https://davidplopez.com/img/SocialMediaIcons/Behance.png "Behance" | width=100px
 
 <!-- links to your social media accounts -->
 
