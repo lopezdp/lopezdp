@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is David P. Lopez and I'm a fullstack software engineer with experience building machine learning applications to reduce payments fraud. I'm from the USA, and I live in Latin America while working for NativeStack, Inc. You can find me on [![StackOverflow][1.2 | width=50]][1], and you can view a third party assessment of the work I have committed my repositories on [![Coder's Rank][2.2 | width=50]][2].
+My name is David P. Lopez and I'm a fullstack software engineer with experience building machine learning applications to reduce payments fraud. I'm from the USA, and I live in Latin America while working for NativeStack, Inc. You can find me on [![StackOverflow][1.2|width=50px]][1], and you can view a third party assessment of the work I have committed my repositories on [![Coder's Rank][2.2|width=50px]][2].
 
 ## &#x270d; Blog & Writing
 
