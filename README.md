@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+My name is David P. Lopez and I'm a fullstack software engineer with experience building machine learning applications to reduce payments fraud. I'm from the USA, and I live in Latin America while working for NativeStack, Inc. You can find me on [![StackOverflow][1.2]][1], and you can view a third party assessment of the work I have committed my repositories on [![Coder's Rank][2.2]][2].
+
+## &#x270d; Blog & Writing
+
+Apart from coding, I also maintain a blog - you can find my articles on my website at the [Revolt Blog](https://davidplopez.com/software-revolt) as well as on [Medium](https://medium.com/) and [DEV.to](https://dev.to/).
+
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -49,3 +57,19 @@ Here are some ideas to get you started:
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lopezdp)](https://davidplopez.com)
 -->
+
+<!-- icons without padding -->
+
+[1.2]: https://davidplopez.com/img/SocialMediaIcons/StackOverflow.png "StackOverflow"
+[2.2]: https://davidplopez.com/img/SocialMediaIcons/CoderRank.png "CodersRank"
+[3.2]: https://davidplopez.com/img/SocialMediaIcons/Spoon.png "Spooncast"
+[4.2]: https://davidplopez.com/img/SocialMediaIcons/Twitch.png "Twitch"
+[5.2]: https://davidplopez.com/img/SocialMediaIcons/Behance.png "Behance"
+
+<!-- links to your social media accounts -->
+
+[1]: https://stackoverflow.com/users/story/3879359
+[2]: https://profile.codersrank.io/user/lopezdp
+[3]: https://www.spooncast.net/profile/1100065713/cast?t=live
+[4]: https://www.twitch.tv/lopezdp
+[5]: hhttps://www.behance.net/lopezdp
