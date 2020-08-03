@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **lopezdp/lopezdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,13 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Welcome to my OpenSource Repository! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is David P. Lopez and I'm a fullstack software engineer with experience building machine learning applications to reduce payments fraud. I'm from the USA, and I live in Latin America while working for NativeStack, Inc. You can find me on [StackOverflow][1] [![StackOverflow][1.2]][1], and you can view a third party assessment of the work I have committed my repositories on [Coder's Rank][2] [![Coder's Rank][2.2]][2].
+My name is David P. Lopez and I'm a fullstack software engineer with experience building machine learning applications to reduce payments fraud. I'm from the USA, and I live in Latin America while working for NativeStack, Inc. You can find me on [StackOverflow][1] [![StackOverflow][1.2]][1], and you can view a third party assessment of the work I have committed to my repositories at [Coder's Rank][2] [![Coder's Rank][2.2]][2].
+
+-   💬 Ask me about [Sponsoring My Work](https://github.com/sponsors/lopezdp)
+-   📫 How to reach me: [Contact Me Now!](https://davidplopez.com/contact-me)
+-   😄 Pronouns: **Biology 101 - Stop the madness**
+-   ⚡ Fun fact: **I am Cuban.**
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at the [Revolt Blog](https://davidplopez.com/software-revolt) as well as on [Medium](https://medium.com/) and [DEV.to](https://dev.to/).
+Apart from coding, I also maintain a blog - you can find my articles on my website at the [Revolt Blog](https://davidplopez.com/software-revolt).
+
+<!--as well as on [Medium](https://medium.com/) and [DEV.to](https://dev.to/).-->
 
 ## 🔧 Technologies & Tools
 
