@@ -24,7 +24,7 @@ My name is David P. Lopez and I'm a fullstack software engineer with experience 
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at the [Revolt Blog](https://davidplopez.com/software-revolt).
+Aside from building web and mobile applications, I also maintain a blog, and you can find my articles on my portfolio at the [Revolt Blog](https://davidplopez.com/software-revolt).
 
 <!--as well as on [Medium](https://medium.com/) and [DEV.to](https://dev.to/).-->
 
@@ -78,4 +78,4 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [2]: https://profile.codersrank.io/user/lopezdp
 [3]: https://www.spooncast.net/profile/1100065713/cast?t=live
 [4]: https://www.twitch.tv/lopezdp
-[5]: hhttps://www.behance.net/lopezdp
+[5]: https://www.behance.net/lopezdp
