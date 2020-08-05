@@ -12,11 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
+
 <a href="https://davidplopez.com/">
   <img align="center" src="https://github.com/lopezdp/lopezdp/blob/master/img/GoHardIcon.png" />
 </a>
-</div>
 
 # Welcome to my OpenSource Repository! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -50,7 +49,7 @@ Aside from building web and mobile applications, I also maintain a blog, and you
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/lopezdp/lopezdp">
-  <img align="center" src="https://github-readme-stats-orpin-tau.vercel.app/api/top-langs/?username=lopezdp&hide=tex,css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-orpin-tau.vercel.app/api/top-langs/?username=lopezdp&hide=php,tex,css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/lopezdp/lopezdp">
   <img align="center" src="https://github-readme-stats-orpin-tau.vercel.app/api?username=lopezdp&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Lopez's GitHub Stats" />
