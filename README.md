@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header](https://github.com/lopezdp/lopezdp/blob/master/img/GoHardIcon.png "Header")](https://davidplopez.com/)
+<a href="https://davidplopez.com/">
+  <img align="center" src="https://github.com/lopezdp/lopezdp/blob/master/img/GoHardIcon.png" />
+</a>
 
 # Welcome to my OpenSource Repository! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -54,10 +56,10 @@ Aside from building web and mobile applications, I also maintain a blog, and you
 </a>
 
 <a href="https://github.com/lopezdp/SunbizVerify">
-  <img align="center" src="https://github-readme-stats-ochre-rho.vercel.app/pin/?repo=SunbizVerify&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-ochre-rho.vercel.app/pin/?username=lopezdp&repo=SunbizVerify&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/lopezdp/LinkedLists">
-  <img align="center" src="https://github-readme-stats-ochre-rho.vercel.app/pin/?repo=LinkedLists&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-ochre-rho.vercel.app/pin/?username=lopezdprepo=LinkedLists&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ## &#x1F4BF; Life Choices
