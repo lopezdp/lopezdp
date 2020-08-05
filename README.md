@@ -64,6 +64,9 @@ Aside from building web and mobile applications, I also maintain a blog, and you
 <a href="https://github.com/lopezdp/LinkedLists">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lopezdp&repo=LinkedLists&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+<a href="https://github.com/lopezdp/QAT.v3-Client">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lopezdp&repo=QAT.v3-Client&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 ## &#x1F4BF; Life Choices
 
