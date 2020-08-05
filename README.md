@@ -17,6 +17,13 @@ Here are some ideas to get you started:
   <img align="center" src="https://github.com/lopezdp/lopezdp/blob/master/img/GoHardIcon.png" />
 </a>
 
+<codersrank-widget
+  username="lopezdp"
+  layout="vertical"
+  badges="3"
+  style="--bg-color: #111; --header-bg-color: #ffffff; --badge-bg-color: #1d1f21; --badge-text-color: #c9cacc;"
+></codersrank-widget>
+
 # Welcome to my OpenSource Repository! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is David P. Lopez and I'm a fullstack software engineer with experience building machine learning applications to reduce payments fraud. I'm from the USA, and I live in Latin America while working for NativeStack, Inc. You can find me on [StackOverflow][1] [![StackOverflow][1.2]][1], and you can view a third party assessment of the work I have committed to my repositories at [Coder's Rank][2] [![Coder's Rank][2.2]][2].
