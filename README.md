@@ -17,6 +17,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github.com/lopezdp/lopezdp/blob/master/img/GoHardIcon.png" />
 </a>
 
+<script src="https://profile.codersrank.io/widget/widget.js"></script>
+
 <codersrank-widget
   username="lopezdp"
   layout="vertical"
