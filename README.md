@@ -56,17 +56,13 @@ Aside from building web and mobile applications, I also maintain a blog, and you
 </a>
 
 <a href="https://github.com/lopezdp/SunbizVerify">
-  <img align="center" src="https://github-readme-stats-orpin-tau.vercel.app/pin/?username=lopezdp&repo=SunbizVerify&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/lopezdp/LinkedLists">
-  <img align="center" src="https://github-readme-stats-orpin-tau.vercel.app/pin/?username=lopezdprepo=LinkedLists&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/lopezdp/SunbizVerify">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lopezdp&repo=SunbizVerify" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lopezdp&repo=SunbizVerify&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/lopezdp/VisaQRCodeGenerator">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lopezdp&repo=VisaQRCodeGenerator" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lopezdp&repo=VisaQRCodeGenerator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/lopezdp/LinkedLists">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lopezdp&repo=LinkedLists&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ## &#x1F4BF; Life Choices
