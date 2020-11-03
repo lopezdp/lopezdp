@@ -68,7 +68,7 @@ Aside from building web and mobile applications, I also maintain a blog, and you
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lopezdp&repo=lopezdp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-## &#x1F4BF; Life Choices
+## &#x1F4BF; Music Choices
 
 [![](http://img.youtube.com/vi/tZQQGX24Teg/0.jpg)](http://www.youtube.com/watch?v=tZQQGX24Teg "YoungMC | Bust A Move")
 
