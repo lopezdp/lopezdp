@@ -46,6 +46,10 @@ Aside from building web and mobile applications, I also maintain a blog, and you
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lopezdp&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/lopezdp/lopezdp">
@@ -67,6 +71,10 @@ Aside from building web and mobile applications, I also maintain a blog, and you
 <a href="https://github.com/lopezdp/lopezdp/issues">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lopezdp&repo=lopezdp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lopezdp&skills=JavaScript,Jupyter%20Notebook,Python,Java,PHP&width=820"
+/>
 
 ## &#x1F4BF; Music Choices
 
