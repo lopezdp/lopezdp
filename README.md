@@ -73,7 +73,7 @@ Aside from building web and mobile applications, I also maintain a blog, and you
 </a>
 
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lopezdp&branding=false&skills=CSS,HTML,JavaScript,Jupyter%20Notebook,Python,Java,PHP&width=820"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lopezdp&branding=false&skills=CSS,HTML,JavaScript,Jupyter%20Notebook,Python,Java,PHP"
 />
 
 ## &#x1F4BF; Music Choices
