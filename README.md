@@ -52,9 +52,7 @@ Aside from building web and mobile applications, I also maintain a blog, and you
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/lopezdp/">
-  <img align="center" src="github-profile-trophy.vercel.app/?username=lopezdp&theme=monokai" />
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=lopezdp&theme=monokai)](https://github.com/lopezdp/github-profile-trophy)
 
 <a href="https://github.com/lopezdp/lopezdp">
   <img align="center" src="https://github-readme-stats-orpin-tau.vercel.app/api/top-langs/?username=lopezdp&hide=tex,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
