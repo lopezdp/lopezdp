@@ -52,6 +52,8 @@ Aside from building web and mobile applications, I also maintain a blog, and you
 
 ## &#x1f4c8; GitHub Stats
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lopezdp&theme=radical)](https://git.io/streak-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=lopezdp&theme=monokai&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/lopezdp/github-profile-trophy)
 
 <a href="https://github.com/lopezdp/lopezdp">
@@ -81,8 +83,6 @@ Aside from building web and mobile applications, I also maintain a blog, and you
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lopezdp&branding=false&skills=CSS,HTML,JavaScript,Jupyter%20Notebook,Python,Java,PHP"
 />
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lopezdp&theme=monokai)](https://git.io/streak-stats)
 
 ## &#x1F4BF; Music Choices
 
