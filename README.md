@@ -82,6 +82,8 @@ Aside from building web and mobile applications, I also maintain a blog, and you
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lopezdp&branding=false&skills=CSS,HTML,JavaScript,Jupyter%20Notebook,Python,Java,PHP"
 />
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lopezdp&theme=monokai)](https://git.io/streak-stats)
+
 ## &#x1F4BF; Music Choices
 
 [![](http://img.youtube.com/vi/tZQQGX24Teg/0.jpg)](http://www.youtube.com/watch?v=tZQQGX24Teg "YoungMC | Bust A Move")
