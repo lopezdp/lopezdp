@@ -44,6 +44,7 @@ Aside from building web and mobile applications, I also maintain a blog, and you
 ![](https://img.shields.io/badge/Backend-Serverless-informational?style=flat&logo=serverless&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-DynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/EVM-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=2bbc8a)
 
