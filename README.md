@@ -37,6 +37,7 @@ Aside from building web and mobile applications, I also maintain a blog, and you
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-SublimeText3-informational?style=flat&logo=sublime-text&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/PackageManager-NPM-informational?style=flat&logo=npm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/PackageManager-Yarn-informational?style=flat&logo=yarn&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/UX/UI-React.js-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
@@ -48,7 +49,6 @@ Aside from building web and mobile applications, I also maintain a blog, and you
 ![](https://img.shields.io/badge/DB-DynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/EVM-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/EVM-Binance-informational?style=flat&logo=binance&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Blockchain-Bitcoin-informational?style=flat&logo=bitcoin&logoColor=white&color=2bbc8a)
 
