@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 My name is David P. Lopez and I'm a fullstack software engineer with experience building machine learning applications to reduce payments fraud. I'm from the USA, and I live in Latin America while working for NativeStack, Inc. You can find me on [StackOverflow][1] [![StackOverflow][1.2]][1], and you can view a third party assessment of the work I have committed to my repositories at [Coder's Rank][2] [![Coder's Rank][2.2]][2].
 
--   💬 Ask me about [Sponsoring My Work](https://github.com/sponsors/lopezdp)
--   📫 How to reach me: [Contact Me Now!](https://davidplopez.com/contact-me)
+- 💬 Ask me about [Sponsoring My Work](https://github.com/sponsors/lopezdp)
+- 📫 How to reach me: [Contact Me Now!](https://davidplopez.com/contact-me)
 <!-- -   😄 Pronouns: **Biology 101 (Usually taken during your Freshman year)** -->
--   ⚡ Fun fact: **I am Cuban, and yet, very American. I started life pouring concrete and fabricating steel and I taught myself how to program while building the Miami Skyline. I made the transition to the digital age, and you too can #LearnToCode.**
+- ⚡ Fun fact: **I am Cuban, and yet, very American. I started life pouring concrete and fabricating steel and I taught myself how to program while building the Miami Skyline. I made the transition to the digital age, and you too can #LearnToCode.**
 
 ## &#x270d; Blog & Writing
 
@@ -68,8 +68,8 @@ Aside from building web and mobile applications, I also maintain a blog, and you
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lopezdp&repo=SunbizVerify&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/lopezdp/VisaQRCodeGenerator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lopezdp&repo=VisaQRCodeGenerator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/lopezdp/TechnicalArticles">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lopezdp&repo=TechnicalArticles&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/lopezdp/LinkedLists">
