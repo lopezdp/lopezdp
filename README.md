@@ -45,8 +45,9 @@ Aside from building web and mobile applications, I also maintain a blog, and you
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/EVM-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/EVM-Binance-informational?style=flat&logo=binance&logoColor=white&color=2bbc8a)
 
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lopezdp&badges=3&show-avatar=true&branding=false&style=--header-bg-color:%23000;--border-radius:10px"
