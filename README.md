@@ -13,9 +13,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=lopezdp)
+
 <a href="https://davidplopez.com/">
   <img align="center" src="https://github.com/lopezdp/lopezdp/blob/master/img/GoHardIcon.png" />
 </a>
+
+```js
+import Developer from 'lopezdp';
+
+class Bio extends Developer {
+    name     = 'David P. Lopez';
+    title    = 'Software Engineer';
+    email    = 'Contact@DavidPLopez.com';
+    web      = 'DavidPLopez.com';
+};
+
+class Skills extends AI Developer {
+    languages  = ['Python','Javascript', 'C', 'C++', 'Solidity', 'PHP'];
+    databases  = ['PostgreSQL', 'MySQL', 'DynamoDB', 'SQLite'];
+    frameworks = ['ReactJS', 'ExpressJS', 'Node.js', 'JupyterLab', 'Ethers.js', 'Web3.js', 'Pandas', 'NumPy', 'sklearn', 'tensorflow'];
+    cloudtools = ['Infrastructure As Code', 'CodeBuild', 'CodePipeline', 'CloudWatch', 'Cognito', 'SNS', 'SES']
+    jobs       = ['Machine Learning Developer', 'Fullstack Web Developer', 'Backend Software Developer', 'Blockchain Engineer'];
+    extras     = ['HTML', 'CSS', 'e-commerce', 'ElasticSearch', 'Serverless Framework', 'AWS Lambda'];
+}
+
+return "Contact me let's discuss ideas!";
+```
 
 # Welcome to my OpenSource Repository! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -92,6 +116,10 @@ Aside from building web and mobile applications, I also maintain a blog, and you
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lopezdp&branding=false&skills=CSS,HTML,JavaScript,Jupyter%20Notebook,Python,Java,PHP"
 />
+
+### Contribution Statistics
+
+[![LopezDP's github activity graph](https://activity-graph.herokuapp.com/graph?username=lopezdp&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## &#x1F4BF; Music Choices
 
