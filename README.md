@@ -36,15 +36,16 @@ class Skills extends AI Developer {
 
     frameworks = ['ReactJS', 'ExpressJS', 'Node.js', 'JupyterLab',
                   'Ethers.js', 'Web3.js', 'Pandas', 'NumPy', 'sklearn',
-                  'tensorflow'];
+                  'tensorflow', 'matplotlib', 'Flask'];
 
     cloudtools = ['Infrastructure As Code', 'CodeBuild', 'CodePipeline',
-                  'CloudWatch', 'Cognito', 'SNS', 'SES']
+                  'CloudWatch', 'Cognito', 'SNS', 'SES', 'AWS Lambda']
 
-    jobs       = ['Machine Learning Developer', 'Fullstack Web Developer',
-                  'Backend Software Developer', 'Blockchain Engineer'];
+    jobs       = ['Machine Learning Engineer', 'Fullstack Web Developer',
+                  'Backend Software Engineer', 'Blockchain Engineer'];
 
-    extras     = ['HTML', 'CSS', 'e-commerce', 'ElasticSearch', 'Serverless Framework', 'AWS Lambda'];
+    extras     = ['HTML', 'CSS', 'e-commerce', 'ElasticSearch', 'Serverless Framework'
+                  'Payments', 'WebRTC', 'NACHA', 'FinTech', 'MQL5'];
 }
 
 return "Contact me let's discuss ideas!";
