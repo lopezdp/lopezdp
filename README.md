@@ -31,10 +31,19 @@ class Bio extends Developer {
 
 class Skills extends AI Developer {
     languages  = ['Python','Javascript', 'C', 'C++', 'Solidity', 'PHP'];
+
     databases  = ['PostgreSQL', 'MySQL', 'DynamoDB', 'SQLite'];
-    frameworks = ['ReactJS', 'ExpressJS', 'Node.js', 'JupyterLab', 'Ethers.js', 'Web3.js', 'Pandas', 'NumPy', 'sklearn', 'tensorflow'];
-    cloudtools = ['Infrastructure As Code', 'CodeBuild', 'CodePipeline', 'CloudWatch', 'Cognito', 'SNS', 'SES']
-    jobs       = ['Machine Learning Developer', 'Fullstack Web Developer', 'Backend Software Developer', 'Blockchain Engineer'];
+
+    frameworks = ['ReactJS', 'ExpressJS', 'Node.js', 'JupyterLab',
+                  'Ethers.js', 'Web3.js', 'Pandas', 'NumPy', 'sklearn',
+                  'tensorflow'];
+
+    cloudtools = ['Infrastructure As Code', 'CodeBuild', 'CodePipeline',
+                  'CloudWatch', 'Cognito', 'SNS', 'SES']
+
+    jobs       = ['Machine Learning Developer', 'Fullstack Web Developer',
+                  'Backend Software Developer', 'Blockchain Engineer'];
+
     extras     = ['HTML', 'CSS', 'e-commerce', 'ElasticSearch', 'Serverless Framework', 'AWS Lambda'];
 }
 
