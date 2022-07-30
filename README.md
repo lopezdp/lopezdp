@@ -151,7 +151,7 @@ Aside from building web and mobile applications, I also maintain a blog, and you
 
 <!-- links to your social media accounts -->
 
-[1]: https://stackoverflow.com/users/story/3879359
+[1]: https://stackoverflow.com/users/3879359/lopezdp?tab=profile
 [2]: https://profile.codersrank.io/user/lopezdp
 [3]: https://www.spooncast.net/profile/1100065713/cast?t=live
 [4]: https://www.twitch.tv/lopezdp
