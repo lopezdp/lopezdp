@@ -102,7 +102,7 @@ Aside from building web and mobile applications, I also maintain a blog, and you
   <img align="center" src="https://github-readme-stats-orpin-tau.vercel.app/api/top-langs/?username=lopezdp&hide=tex,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lopezdp&layout=compact&hide=tex,html,css,shell,ruby&langs_count=21)](https://github.com/lopezdp/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lopezdp&layout=compact&hide=tex,html,css,shell,ruby,tex&langs_count=21)](https://github.com/lopezdp/github-readme-stats)
 
 <a href="https://github.com/lopezdp/lopezdp">
   <img align="center" src="https://github-readme-stats-orpin-tau.vercel.app/api?username=lopezdp&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Lopez's GitHub Stats" />
