@@ -100,7 +100,7 @@ Aside from building web and mobile applications, I also maintain a blog, and you
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lopezdp&theme=radical)](https://git.io/streak-stats)
 
 <a href="https://github.com/lopezdp/lopezdp">
-  <img align="center" src="https://github-readme-stats-orpin-tau.vercel.app/api/top-langs/?username=lopezdp&hide=tex,html,css,shell,ruby&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-orpin-tau.vercel.app/api/top-langs/?username=lopezdp&langs_count=4&hide=tex,html,css,shell,ruby&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/lopezdp/lopezdp">
