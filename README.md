@@ -66,6 +66,10 @@ Aside from building web and mobile applications, I also maintain a blog, and you
 
 <!--as well as on [Medium](https://medium.com/) and [DEV.to](https://dev.to/).-->
 
+<a href="https://github.com/lopezdp/lopezdp">
+  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lopezdp&badges=3&show-avatar=true&branding=false&style=--header-bg-color:%23000;--border-radius:9px"/>
+</a>
+
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -88,10 +92,6 @@ Aside from building web and mobile applications, I also maintain a blog, and you
 ![](https://img.shields.io/badge/Blockchain-Bitcoin-informational?style=flat&logo=bitcoin&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Search-ElasticSearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=2bbc8a)
-
-<a href="https://github.com/lopezdp/lopezdp">
-  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lopezdp&badges=3&show-avatar=true&branding=false"/>
-</a>
 
 ## &#x1f4c8; GitHub Stats
 
