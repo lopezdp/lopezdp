@@ -90,7 +90,7 @@ Aside from building web and mobile applications, I also maintain a blog, and you
 ![](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=2bbc8a)
 
 <a href="https://github.com/lopezdp/lopezdp">
-  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lopezdp&badges=3&show-avatar=true&branding=false&style=--header-bg-color:%23000;--border-radius:9px"/>
+  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lopezdp&badges=3&show-avatar=true&branding=false"/>
 </a>
 
 ## &#x1f4c8; GitHub Stats
