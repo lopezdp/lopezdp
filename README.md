@@ -66,7 +66,9 @@ Aside from building web and mobile applications, I also maintain a blog, and you
 
 <!--as well as on [Medium](https://medium.com/) and [DEV.to](https://dev.to/).-->
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lopezdp&badges=3&show-avatar=true&branding=false&style=--header-bg-color:%23000;--border-radius:9px" />
+<a href="https://davidplopez.com/">
+  <img align="center" src="https://github.com/lopezdp/lopezdp/blob/master/img/rank.png" />
+</a>
 
 ## 🔧 Technologies & Tools
 
@@ -146,6 +148,7 @@ Aside from building web and mobile applications, I also maintain a blog, and you
 [4.2]: https://github.com/lopezdp/lopezdp/blob/master/img/Twitch.png "Twitch"
 [5.2]: https://github.com/lopezdp/lopezdp/blob/master/img/Behance.png "Behance"
 [6.3]: https://github.com/lopezdp/lopezdp/blob/master/img/GoHardIcon.png "Go Hard In The Paint"
+[7]: https://github.com/lopezdp/lopezdp/blob/master/img/rank.png "Status"
 
 <!-- links to your social media accounts -->
 
