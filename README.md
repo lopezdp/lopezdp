@@ -66,9 +66,7 @@ Aside from building web and mobile applications, I also maintain a blog, and you
 
 <!--as well as on [Medium](https://medium.com/) and [DEV.to](https://dev.to/).-->
 
-<a href="https://github.com/lopezdp/lopezdp">
-  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lopezdp&badges=3&show-avatar=true&branding=false&style=--header-bg-color:%23000;--border-radius:9px"/>
-</a>
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lopezdp&badges=3&show-avatar=true&branding=false&style=--header-bg-color:%23000;--border-radius:9px" />
 
 ## 🔧 Technologies & Tools
 
