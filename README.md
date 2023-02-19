@@ -100,7 +100,7 @@ Aside from building web and mobile applications, I also maintain a blog, and you
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lopezdp&theme=radical)](https://git.io/streak-stats)
 
 <a href="https://github.com/lopezdp/lopezdp">
-  <img align="center" src="https://github-readme-stats-orpin-tau.vercel.app/api/top-langs/?username=lopezdp&langs_count=4&hide=tex,html,css,shell,ruby&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-orpin-tau.vercel.app/api/top-langs/?username=lopezdp&hide=tex,html,css,shell,ruby&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/lopezdp/lopezdp">
@@ -123,12 +123,12 @@ Aside from building web and mobile applications, I also maintain a blog, and you
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lopezdp&repo=lopezdp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lopezdp&branding=false&skills=CSS,HTML,JavaScript,Jupyter%20Notebook,Python,Java,Solidity,PHP"
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lopezdp&branding=false&skills=CSS,HTML,JavaScript,Jupyter%20Notebook,Python,Java,Solidity,PHP,TypeScript"
 />
 
 ### Contribution Statistics
 
-[![LopezDP's github activity graph](https://activity-graph.herokuapp.com/graph?username=lopezdp&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![LopezDP's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lopezdp&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## &#x1F4BF; Music Choices
 
