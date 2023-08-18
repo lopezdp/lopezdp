@@ -70,6 +70,10 @@ Aside from building web and mobile applications, I also maintain a blog, and you
   <img align="center" src="https://github.com/lopezdp/lopezdp/blob/master/img/rank.png" />
 </a>
 
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lopezdp&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
+
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
