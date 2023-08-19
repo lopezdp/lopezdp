@@ -132,7 +132,7 @@ Aside from building web and mobile applications, I also maintain a blog, and you
 
 ### Contribution Statistics
 
-[![LopezDP's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lopezdp&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![LopezDP's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lopezdp&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## &#x1F4BF; Music Choices
 
