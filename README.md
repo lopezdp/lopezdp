@@ -66,12 +66,8 @@ Aside from building web and mobile applications, I also maintain a blog, and you
 
 <!--as well as on [Medium](https://medium.com/) and [DEV.to](https://dev.to/).-->
 
-<a href="https://davidplopez.com/">
-  <img align="center" src="https://github.com/lopezdp/lopezdp/blob/master/img/rank.png" />
-</a>
-
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lopezdp&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lopezdp&badges=3&show-avatar=false&branding=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
 
 ## 🔧 Technologies & Tools
