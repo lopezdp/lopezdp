@@ -39,7 +39,10 @@ class Skills extends AI Developer {
                   'tensorflow', 'matplotlib', 'Flask'];
 
     cloudtools = ['Infrastructure As Code', 'CodeBuild', 'CodePipeline',
-                  'CloudWatch', 'Cognito', 'SNS', 'SES', 'AWS Lambda']
+                  'CloudWatch', 'Cognito', 'SNS', 'SES', 'AWS Lambda',
+                  'CloudTrai', 'CloudFront' 'SecretsManager', 'IoT Core',
+                  'KeyManagerService', 'Amplify', 'S3', 'Athena', 'RedShift',
+                  'SageMaker']
 
     jobs       = ['Machine Learning Engineer', 'Fullstack Web Developer',
                   'Backend Software Engineer', 'Blockchain Engineer'];
