@@ -40,9 +40,9 @@ class Skills extends AI Developer {
 
     cloudtools = ['Infrastructure As Code', 'CodeBuild', 'CodePipeline',
                   'CloudWatch', 'Cognito', 'SNS', 'SES', 'AWS Lambda',
-                  'CloudTrai', 'CloudFront' 'SecretsManager', 'IoT Core',
-                  'KeyManagerService', 'Amplify', 'S3', 'Athena', 'RedShift',
-                  'SageMaker']
+                  'CloudTrail', 'CloudFront' 'SecretsManager', 'IoT Core',
+                  'KeyManagerService', 'Kinesis', 'Amplify', 'S3', 'Athena',
+                  'RedShift', 'SageMaker']
 
     jobs       = ['Machine Learning Engineer', 'Fullstack Web Developer',
                   'Backend Software Engineer', 'Blockchain Engineer'];
