@@ -1,5 +1,5 @@
 <!--
-**lopezdp/lopezdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lopezdp/lopezdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on GitHub.
 
 Here are some ideas to get you started:
 
@@ -100,7 +100,7 @@ Aside from building web and mobile applications, I also maintain a blog, and you
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lopezdp&theme=monokai&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/lopezdp/github-profile-trophy)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lopezdp&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lopezdp&theme=radical)](https://git.io/streak-stats)
 
 <a href="https://github.com/lopezdp/lopezdp">
   <img align="center" src="https://github-readme-stats-orpin-tau.vercel.app/api/top-langs/?username=lopezdp&hide=tex,html,css,shell,ruby&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
