@@ -89,7 +89,7 @@ Aside from building web and mobile applications, I also maintain a blog, and you
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-DynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/kubernetes?style=flat&logo=linux&logoColor=white&color=326CE5)
+![](https://img.shields.io/badge/Kubernetes?style=flat&logo=kubernetes&logoColor=white&color=326CE5)
 ![](https://img.shields.io/badge/SmartContracts-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/EVM-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/EVM-Binance-informational?style=flat&logo=binance&logoColor=white&color=2bbc8a)
