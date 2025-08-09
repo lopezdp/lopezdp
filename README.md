@@ -63,7 +63,7 @@ My name is David P. Lopez and I'm a fullstack software engineer with experience 
 - 💬 Ask me about [Sponsoring My Work](https://github.com/sponsors/lopezdp)
 - 📫 How to reach me: [Contact Me Now!](https://davidplopez.com/contact-me)
 <!-- -   😄 Pronouns: **Biology 101 (Usually taken during your Freshman year)** -->
-- ⚡ Fun fact: **I am Cuban, and yet, very American. I started life pouring concrete and fabricating steel and I taught myself how to program while building the Miami Skyline. I made the transition to the digital age, and you too can #LearnToCode.**
+- ⚡ Fun fact: **I build tools for manufacturing, healthcare, fin-tech, & sports betting markets**
 
 ## &#x270d; Blog & Writing
 
