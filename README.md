@@ -42,13 +42,15 @@ class Skills extends AI Developer {
                   'CloudWatch', 'Cognito', 'SNS', 'SES', 'AWS Lambda',
                   'CloudTrail', 'CloudFront' 'SecretsManager', 'IoT Core',
                   'KeyManagerService', 'Kinesis', 'Amplify', 'S3', 'Athena',
-                  'RedShift', 'SageMaker']
+                  'RedShift', 'SageMaker', 'Kubernetes', 'Fargate', 'ECR', 'OpenSearch']
 
     jobs       = ['Machine Learning Engineer', 'Fullstack Web Developer',
                   'Backend Software Engineer', 'Blockchain Engineer'];
 
     extras     = ['HTML', 'CSS', 'e-commerce', 'ElasticSearch', 'Serverless Framework'
                   'Payments', 'WebRTC', 'NACHA', 'FinTech', 'MQL5'];
+
+    compliance     = ['HIPAA', 'SOC2', 'ITAR', 'CMMC', 'DoD CC SRG IL2 - IL6'];
 }
 
 return "Contact me let's discuss ideas!";
@@ -56,7 +58,7 @@ return "Contact me let's discuss ideas!";
 
 # Welcome to my OpenSource Repository! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is David P. Lopez and I'm a fullstack software engineer with experience building machine learning applications to reduce payments fraud. I'm from the USA, and I live in Latin America while working for NativeStack, Inc. You can find me on [StackOverflow][1] [![StackOverflow][1.2]][1], and you can view a third party assessment of the work I have committed to my repositories at [Coder's Rank][2] [![Coder's Rank][2.2]][2].
+My name is David P. Lopez and I'm a fullstack software engineer with experience building machine learning applications to reduce payments fraud. I work for NativeStack, Inc. You can find me on [StackOverflow][1] [![StackOverflow][1.2]][1], and you can view a third party assessment of the work I have committed to my repositories at [Coder's Rank][2] [![Coder's Rank][2.2]][2].
 
 - 💬 Ask me about [Sponsoring My Work](https://github.com/sponsors/lopezdp)
 - 📫 How to reach me: [Contact Me Now!](https://davidplopez.com/contact-me)
@@ -66,12 +68,6 @@ My name is David P. Lopez and I'm a fullstack software engineer with experience 
 ## &#x270d; Blog & Writing
 
 Aside from building web and mobile applications, I also maintain a blog, and you can find my articles on my portfolio at the [Revolt Blog](https://davidplopez.com/software-revolt).
-
-<!--as well as on [Medium](https://medium.com/) and [DEV.to](https://dev.to/).-->
-
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lopezdp&badges=3&show-avatar=false&branding=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
 
 ## 🔧 Technologies & Tools
 
@@ -101,8 +97,6 @@ Aside from building web and mobile applications, I also maintain a blog, and you
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lopezdp&theme=monokai&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/lopezdp/github-profile-trophy)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lopezdp&theme=radical)](https://git.io/streak-stats)
-
 <a href="https://github.com/lopezdp/lopezdp">
   <img align="center" src="https://github-readme-stats-orpin-tau.vercel.app/api/top-langs/?username=lopezdp&hide=tex,html,css,shell,ruby&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -127,18 +121,9 @@ Aside from building web and mobile applications, I also maintain a blog, and you
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lopezdp&repo=lopezdp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lopezdp&branding=false&skills=CSS,HTML,JavaScript,Jupyter%20Notebook,Python,Java,Solidity,PHP,TypeScript"
-/>
-
 ### Contribution Statistics
 
 [![LopezDP's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lopezdp&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## &#x1F4BF; Music Choices
-
-[Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
-
-[![](http://img.youtube.com/vi/tZQQGX24Teg/0.jpg)](http://www.youtube.com/watch?v=tZQQGX24Teg "YoungMC | Bust A Move")
 
 <!--
 [![Lopez's github stats](https://github-readme-stats.vercel.app/api?username=lopezdp&count_private=true&show_icons=true&theme=prussian)](https://davidplopez.com)
